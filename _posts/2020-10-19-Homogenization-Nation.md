@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Defining a Field"
+title: "Homogenization Nation"
 categories: misc
 ---
-Homogenization Nation 
 
 Last week, having explored the array of benefits that digital humanities tools present, I find it only fair to admit a few of my apprehensions with larger industries embracing some of these tools. My largest fear to date is that of a “homogenization” of both the literary and job applicant market. 
 
