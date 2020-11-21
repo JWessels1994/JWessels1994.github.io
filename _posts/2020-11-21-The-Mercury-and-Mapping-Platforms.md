@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Exploring The Mercury and Mapping Platforms"
+categories: misc
+---
+
+This week, as I continue to think about my final project proposal, I felt it might be beneficial to share where the information for this project is coming from (the “runaway” slave ads) and how this information migrated from existing in an 18th century newspaper to an Archive in Barbados to clipped, digitalized ads within the ECDA database. I also wanted to take a bit of time to analyze the two projects that inspired this mapping endeavor for me; to compare the different styles, information presented and mapping software used.  
+
+As shared in Amalia S. Levi and Tara A. Inniss’ blog post, “Decolonizing the Archival Record about the Enslaved: Digitizing the Barbados Mercury Gazette,” in 2018, the _Barbados Mercury_ and _Bridgetown Gazette_ (henceforth, the _Mercury_ ) were digitized at the Barbados Archives. The project of digitizing the preservation of this important primary source was headed by Lisa Paul from Brock University, Ingrid Thompson the director of the Barbados Archives and Amalia S.Levi an Independent Archivist, and funded through an Endangered Archives Programme (EAP) grant by the British Library. The _Mercury_, a primary source, covers the time period from 1783 to 1848 and provides insight into life in this British colony in the Caribbean during the eighteenth and nineteenth centuries.
+
+ Given that many other primary sources, such as plantation records or government records, have been lost or destroyed, The _Mercury_ stands in as a particularly useful source in outlining the slave society and economy that existed on the island. The _Mercury_ captures the most tumultuous time in Barbados for slavery with publications covering the rebellion led by African-born slave Bussa (in 1816); which ultimately sparked a series of rebellions in the West Indies that led to the abolition of slavery in British colonies in 1834. 
+
+Of particular importance to this project, the "runaway slave" ads, which appear regularly throughout the newspaper, provide information on the location and description of slaves that have escaped and are being sought after by their owners. Providing reward money and the general location of where the enslaved individuals had last been seen, these ads tell the stories of the attempted path to freedom that slaves took in Barbados during colonial rule and provide the basic geographical information needed to craft a mapping project. 
+
+Using mapping software, this Pathways of Resistance Project aims to first capture the path of each slave mentioned in the “runaway slave” ads by tracking down latitude and longitude coordinates to ultimately create a robust dataset that could be used for future projects as well. Once this dataset is crafted, it will be used to visually bring the paths of enslaved individuals to life in a way that text (newspaper clippings) fails to. By placing the paths of these individuals together on a map, their journeys will also be put into conversation with one another, allowing new incites and patterns to be drawn. 
+
+One project that has inspired this mapping endeavor is that of Vincent Brown’s _[Slave Revolt in Jamaica, 1760-1761]_(http://revolt.axismaps.com/). On the landing page of Brown’s site, Brown highlights how his project draws attention to the importance of landscape to the course of uprisings that took place in Jamaica and how his map, “suggests an argument about the strategies of the rebels and the tactics of counterinsurgency.” Brown’s project uses the mapping software Leaflet which is an open-source, JavaScript library that is mobile friendly and promotes interactive maps.
+
+In navigating Brown’s map, users can chose to either pressing a “play” button and be walked linearly through the revolts and locations of the uprising in Jamaica or to click on individual day within the timeline of revolts to walk through events independently. The map legend shows you the size of the force (the amount of people), images for representing a clash with rebels and color coordinated troop locations representing if a group was rebels, militia, army, navy, maroons, conspiracy, slave court or uncertain. Brown also provides users with an option to switch from a terrain versus a places map view, which ultimately allows users to see how the island’s topography shaped the course of the revolt. 
+
+Investigating Leaflet as a mapping option, I was very impressed with the simplistic yet dynamic style of the software. Unlike ArcGIS, Leaflet can be used across all major desktops and even Mobil platforms and there are numerous tutorials on the website showing how to create custom icons, interactive choropleth maps, layered maps, non geographical maps as well as how to integrate videos on top of a map.
+
+The second project that I have drawn inspiration from by is that of Dr. Olly Ayers _[Mapping Black London map 1935-1947]_(https://dcrn.northeastern.edu/home/mapping-black-london-in-world-war-ii/). As mentioned, Ayers uses ArcGIS software for his project which seems to craft a project more focused on location and coordinates and less on the “story” component of any given location. When first entering the project site, users are provided with the options to sift through key locations mentioned on the map, where peoples lived (temporary, Black British, Caribbean, North America or African residences) or points of interest (Café de Paris, Charlie Brown’s Pub etc.). All categories allow users to zoom in and out of the map with the “where people lived” section providing an extra layer of information on population density. 
+
+Similarly to Leaflet, ArcGIS offers numerous tutorials to help users become familiar with the platform. After comparing the visuals and considering how important the story component of the “runaway slave” ads are to my project, the comparison of these two platforms leaves me questioning if ArcGIS really is the best platform for my project or if Leaflet or perhaps another platform would better be able to present the information housed within the _Mercury_ ads. In the end, I am very excited at the prospect of materializing this project idea and I will continue to weigh various mapping platform options until I find the software I feel will best help to “decolonize” The _Mercury_ archive by bringing to life the journeys of individuals who have for so long been silenced. 
+
+Bibliography:
+
+Levi, Amalia. “Digitisation of The Barbados Mercury Gazette.” Endangered Archives Blog, 3 Aug. 2018, blogs.bl.uk/endangeredarchives/2018/08/digitisation-of-the-barbados-mercury-gazette.html2. 
+
+Levi, Amalia S., and Tara A. Inniss. “Decolonizing the Archival Record about the Enslaved: Digitizing the Barbados Mercury Gazette.” Archipelagos, Columbia University Libraries, 16 June 2020, archipelagosjournal.org/issue04/levi-inniss-decolonizing.html. 
+
+Ayers, Olly. “Mapping Black London 1935-1947.” Arcgis.com, www.arcgis.com/apps/MapSeries/index.html?appid=d69c531323194b61b76be6d472125207. 
+
+Brown, Vincent. “Slave Revolt in Jamaica, 1760-1761”, revolt.axismaps.com/. 
